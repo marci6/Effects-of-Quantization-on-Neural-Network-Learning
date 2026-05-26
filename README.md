@@ -107,7 +107,7 @@ This research was published in 2021. Since then, every major trend has made it m
 
 ## Read the dissertation
 
-Full paper: [`Effects_of_Quantization_on_Neural_Network_Learning.pdf`](./Effects_of_Quantization_on_Neural_Network_Learning.pdf)
+Full paper: https://github.com/marci6/Effects-of-Quantization-on-Neural-Network-Learning/blob/main/Effects%20of%20Quantization%20on%20Neural%20Network%20Learning.pdf
 
 ---
 
